@@ -1,0 +1,85 @@
+body{
+background-color:  #d4d4aa; 
+}
+
+
+a:link {
+    color: white;
+    background-color: #d4d4aa;
+    text-decoration: blink;
+}
+a:visited {
+    color: black;
+    background-color: #d4d4aa;
+    text-decoration: none;
+}
+a:hover {
+    color:  #ffff00;
+    background-color: #d4d4aa;
+    text-decoration: none;
+}
+a:active {
+    color: red;
+    background-color: #d4d4aa;
+    text-decoration: none;
+}
+
+#nav{
+color: black; 
+width: 1150px;
+text-align: right;
+/*margin-right: auto;
+margin-left: auto;*/
+background-color:#33331a;
+}
+	
+
+#container{
+background-color: #d4d4aa;
+height: 551px;
+width: 904px;
+margin-right: auto;
+margin-left: auto;
+margin-top: auto;
+margin-bottom: auto;
+}
+
+#name{
+	color: #330000;
+	background-color: #33331a;
+	font-size: 250%;
+	width: 300px;
+	height: 551px;
+	float: left;
+	text-align: center;
+	border: 1px solid #888844;
+	
+}
+
+#sidelay{
+	color: black;
+	background-color:  white;
+	font-size: 210%;
+	width: 600px;
+	height: 551px;
+	float: right;
+	text-align: center;
+	border: 1px solid #888844;
+}
+#mycontact{
+
+width: 900px;
+text-align: right;
+margin-right: auto;
+margin-left: auto;
+}
+#footer{
+	clear: both;
+	color: black;
+
+	width: 900px;
+text-align: right;
+margin-right: auto;
+margin-left: auto;
+opacity: 200%;
+}
